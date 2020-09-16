@@ -1,4 +1,4 @@
-import 'package:delivery_app/loginPage.dart';
+import 'package:delivery_app/app/ui/authentication/loginPage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
